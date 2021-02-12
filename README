@@ -1,0 +1,11 @@
+Sunshade mapping ans slope correction of optical satellite data.
+2020/10/21 Kenlo Nasahara
+
+Compile:
+$ make
+
+Dermonstration:
+$ cd demo
+$ ./demo.sh
+
+
